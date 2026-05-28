@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm a 19-year-old Brazilian Software engineer with a passion for web development, data analysis and generative AI.
+## 👋 Hello there! I'm a 20-year-old Brazilian Software engineer with a passion for web development, data analysis and generative AI.
 
  ## 📨 Contact Me!
 <div> 
