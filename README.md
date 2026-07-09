@@ -156,8 +156,6 @@ const arthur = {
 
 <div align="center">
 
-💡 *"Code + AI = products that generate real impact."*
-
 ⭐ Liked any project? Leave a star!
 
 </div>
