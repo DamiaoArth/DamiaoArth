@@ -139,7 +139,7 @@ const arthur = {
 
 ### 🌎 Languages
 
-🇧🇷 Portuguese · Native &nbsp;|&nbsp; 🇺🇸 English · C1 &nbsp;|&nbsp; 🇪🇸 Spanish · B1
+🇧🇷 Portuguese · Native &nbsp;|&nbsp; 🇺🇸 English · C2 &nbsp;|&nbsp; 🇪🇸 Spanish · B1
 
 ---
 
